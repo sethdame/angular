@@ -40,6 +40,8 @@ module.exports = function(config) {
       '/packages/stack_trace': '/base/packages/stack_trace',
       '/packages/collection': '/base/packages/collection',
       '/packages/path': '/base/packages/path',
+	  
+	  //Just making a note so there can be a change to the file that I can commit
 
       // Local dependencies, transpiled from the source.
       '/packages/angular2': '/base/dist/dart/angular2/lib',
